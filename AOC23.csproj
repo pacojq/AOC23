@@ -40,11 +40,15 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Day1\Problem1.cs" />
+        <Compile Include="Day1\Problem2.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
       <Content Include="Day1\problem1_input.txt">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </Content>
+      <Content Include="Day1\problem2_input.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </Content>
     </ItemGroup>
