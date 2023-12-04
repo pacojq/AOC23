@@ -6,12 +6,11 @@
         {
             // Input taken from: https://adventofcode.com/2023/day/1/input
             //Day1.Problem1.Solve("Day1/problem1_input.txt");
-            
-            // Input taken from: https://adventofcode.com/2023/day/1/input
             //Day1.Problem2.Solve("Day1/problem1_input.txt");
             
             // Input taken from: https://adventofcode.com/2023/day/2/input
-            Day2.Problem1.Solve("Day2/problem1_input.txt", 12, 13, 14);
+            //Day2.Problem1.Solve("Day2/problem1_input.txt", 12, 13, 14);
+            Day2.Problem2.Solve("Day2/problem1_input.txt");
         }
     }
 }

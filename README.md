@@ -9,7 +9,7 @@ Here are my entries for 2023's calendar.
 | Day | Puzzle 1 | Puzzle 2 |
 | :-: | :------: | :------: |
 | 01  |  :star:  |  :star:  |
-| 02  |  :star:  |          |
+| 02  |  :star:  |  :star:  |
 | 03  |          |          |
 | 04  |          |          |
 | 05  |          |          |
