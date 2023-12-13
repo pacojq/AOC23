@@ -12,7 +12,7 @@ Here are my entries for 2023's calendar.
 | 02  |  :star:  |  :star:  |
 | 03  |  :star:  |  :star:  |
 | 04  |  :star:  |  :star:  |
-| 05  |          |          |
+| 05  |  :star:  |          |
 | 06  |          |          |
 | 07  |          |          |
 | 08  |          |          |
