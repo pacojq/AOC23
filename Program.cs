@@ -17,7 +17,8 @@
             //Day3.Problem2.Solve("Day3/problem1_input.txt");
             
             // Input taken from: https://adventofcode.com/2023/day/3/input
-            Day4.Problem1.Solve("Day4/problem1_input.txt");
+            //Day4.Problem1.Solve("Day4/problem1_input.txt");
+            Day4.Problem2.Solve("Day4/problem1_input.txt");
         }
     }
 }
